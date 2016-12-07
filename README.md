@@ -1,2 +1,1 @@
-# -
-验证
+验证功能转换需用到JQ。input中加入class为required，加form表单，配置需用到form的Id及提交按钮的id
